@@ -2,9 +2,9 @@
   
   <br />
 
-  <h2 align="center">Blogy - Blog Website</h2>
+  <h2 align="center">Hospital Management System</h2>
 
-  Blogy is a fully responsive blog website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+   Developed a Comprehensive hospital management system using MERN stack. <br /> Implemented appointment booking functionality with healthcare providers based on availability and speciality. 
 
   <a href="https://zeecare-com.netlify.app"><strong>➥ Live Demo</strong></a>
 
@@ -20,6 +20,3 @@
 
 
 
-### License
-
-This project is **free to use** and does not contains any license.
